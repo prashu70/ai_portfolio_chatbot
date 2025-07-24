@@ -34,7 +34,7 @@ export default function Home() {
         <div className="card">
           <h2>Featured Projects</h2>
           <div>
-            <h3>AI-Powered Portfolio Chatbot :</h3> <a href="https://github.com/prashu70/customer_purchase_behavior_eda.git" target="_blank" rel="noopener noreferrer">Link</a>
+            <h3>AI-Powered Portfolio Chatbot :</h3> <a href="https://github.com/prashu70/ai_portfolio_chatbot.git" target="_blank" rel="noopener noreferrer">Link</a>
             <p>An interactive chatbot integrated into my portfolio, designed to answer questions about my skills, projects, and experience. Built using Next.js, Node.js, Socket.IO, it delivers real-time, intelligent responses and enhances user engagement. Backend uses PostgreSQL with Prisma ORM for data management, and a responsive UI with Tailwind CSS.</p>
           </div>
           <div>
